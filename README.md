@@ -1,0 +1,1 @@
+# ecommerce_schema_seed.sql
